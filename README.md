@@ -56,6 +56,7 @@ RegisterNumber:25017014
 <img width="1917" height="1079" alt="Screenshot 2025-12-17 105723" src="https://github.com/user-attachments/assets/72e174ce-5c5f-41e3-9d7b-1c3001e3acf8" />
 
 **TRUTH TABLE**
+<img width="879" height="296" alt="upc" src="https://github.com/user-attachments/assets/3891198c-b3bc-48e0-8782-83f4de62be94" />
 
 **RESULTS**
 4 bit synchronous up counter and validate functionality is  implemented.
